@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hemashaker0
-- 👀 I’m interested in Cybersecurity, specialy network security
+- 👀 I’m interested in Cybersecurity, specially network security
 - 🌱 I’m currently learning blue team track
 - 📫 How to reach me ---> https://www.linkedin.com/in/ibrahim-shaker-a3490b204/
 <!---
